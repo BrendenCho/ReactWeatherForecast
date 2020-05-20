@@ -2,7 +2,7 @@
 
 This is a 5 day weather app that was made using React. This uses a zip code in order to pull data from https://openweathermap.org/api.
 
-# The project can be viewed here. [https://5ec5911c70c564ef1a22bb2f--flamboyant-shaw-a67131.netlify.app/]
+# The project can be viewed here. https://5ec5911c70c564ef1a22bb2f--flamboyant-shaw-a67131.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
